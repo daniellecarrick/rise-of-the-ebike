@@ -1,0 +1,2 @@
+# Getting started
+1. To get the data, go to https://s3.amazonaws.com/tripdata/index.html and download and unzip the months of data you are interested in. Place the unzipped csvs inside of the data folder., The python script is designed to combine all of the monthly data files present in the data folder into one dataset.

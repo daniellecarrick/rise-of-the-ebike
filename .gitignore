@@ -1,0 +1,4 @@
+#ignore data files. users should download the files themselves from https://s3.amazonaws.com/tripdata/index.html
+
+data/*
+
